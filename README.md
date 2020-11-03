@@ -17,6 +17,6 @@
         Github Stats
     </summary>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=soupy0001&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=soupy0001&count_private=true&show_icons=true&hide_border=true&hide_title=true)
 
 </details>
