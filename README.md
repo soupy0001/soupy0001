@@ -10,6 +10,11 @@
 [![Website](https://img.shields.io/badge/WORKING_ON-ROCKY-red?style=for-the-badge)](https://rocky.pw/)
 ![Image](https://img.shields.io/badge/LEARNING-C++-blue?style=for-the-badge)
 
---
+---
+
+<details>
+<summary>![Image](https://img.shields.io/badge/GITHUB-STATS-white?style=for-the-badge)</summary>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=soupy0001&count_private=true)
+
+</details>
