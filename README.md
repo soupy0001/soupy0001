@@ -7,5 +7,5 @@
 
 ---
 
-- 🔭 I’m currently working on [rocky](https://rocky.pw/)
-- 🌱 I’m currently learning c++
+[![Website](https://img.shields.io/badge/WORKING_ON-ROCKY-red?style=for-the-badge)](https://rocky.pw/)
+[![Image](https://img.shields.io/badge/LEARNING-C++-blue?style=for-the-badge)]
