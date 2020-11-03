@@ -1,6 +1,6 @@
 ### Welcome
 
-[![Website](https://img.shields.io/website?label=rocky.pw&style=for-the-badge&url=https%3A%2F%2Frocky.pw)](https://rocky.pw.com)
+[![Website](https://img.shields.io/website?label=rocky.pw&style=for-the-badge&url=https%3A%2F%2Frocky.pw)](https://rocky.pw/)
 [![Discord](https://img.shields.io/discord/757283689485828198?label=DISCORD&style=for-the-badge)](https://discord.gg/USHgRUdtFh)
 
 ---
