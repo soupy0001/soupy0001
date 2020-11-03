@@ -8,4 +8,4 @@
 ---
 
 [![Website](https://img.shields.io/badge/WORKING_ON-ROCKY-red?style=for-the-badge)](https://rocky.pw/)
-[![Image](https://img.shields.io/badge/LEARNING-C++-blue?style=for-the-badge)]
+![Image](https://img.shields.io/badge/LEARNING-C++-blue?style=for-the-badge)
