@@ -13,7 +13,9 @@
 ---
 
 <details>
-<summary>![Image](https://img.shields.io/badge/GITHUB-STATS-white?style=for-the-badge)</summary>
+    <summary>
+![Stats](https://img.shields.io/badge/GITHUB-STATS-white?style=for-the-badge)
+    </summary>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=soupy0001&count_private=true)
 
